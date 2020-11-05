@@ -1,5 +1,7 @@
 = Pizza Shop DDD Labs
 
+*DEPRECATED: See https://github.com/ddd-edm-online-course/ddd-edm-course-lab-tmpl*
+
 Instructions:
 
 . When we start a lab, find the tests marked `TODO` for that lab.
